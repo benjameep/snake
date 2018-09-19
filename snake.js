@@ -4,7 +4,7 @@ canvasFillScreen();
 
 // GLOBAL VARIABLES
 var isPlaying = true;
-var isDayView = true;
+var isDayView = false;
 var highScore = null;
 var isFirstRound = true;
 
